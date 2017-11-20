@@ -1,0 +1,1 @@
+print("Co ja robię ze swoim życiem?!")
